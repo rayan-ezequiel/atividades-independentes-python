@@ -1,2 +1,2 @@
 # atividades-independentes-python
-Repositório com resoluções de exercícios e atividades feitas por conta própria, como prática e estudo pessoal.
+Este repositório reúne resoluções de atividades e desafios que resolvi por conta própria, sem vínculo com disciplinas ou cursos específicos. O objetivo é praticar, fixar conceitos e documentar minha evolução ao longo do tempo.
